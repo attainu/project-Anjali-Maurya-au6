@@ -44,12 +44,12 @@ To create your own ParkingLot -
 
 2. Run `python Parkinglot.py` The below image shows the terminal window where I have given input on my path to python script.Thus it is showing two choices either Manual Input or File Input.
 
-![](https://github.com/attainu/project-Anjali-Maurya-au6/blob/dev/Screenshots/1.png)
+![](https://github.com/attainu/project-Anjali-Maurya-au6/blob/dev/Screenshot/1.png)
 
 3. This is how the menu driven program appears shown below when Manual Input is chosen. First of all, no. of total slots has to be created so from the testcase I have taken 6 slots as input. After that program is asking either to park or to perform the remaining task according to the choice no.
 
-![](https://github.com/attainu/project-Anjali-Maurya-au6/blob/dev/Screenshots/2.png)
+![](https://github.com/attainu/project-Anjali-Maurya-au6/blob/dev/Screenshot/2.png)
 
 4. In this image shows the file input option, where path for the testcase.txt is given. Then automatically code fetches the input and gives the output.
 
-![](https://github.com/attainu/project-Anjali-Maurya-au6/blob/dev/Screenshots/3.png)
+![](https://github.com/attainu/project-Anjali-Maurya-au6/blob/dev/Screenshot/3.png)
